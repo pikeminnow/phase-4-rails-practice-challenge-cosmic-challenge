@@ -39,3 +39,4 @@ RSpec.describe Scientist, type: :model do
     
   end
 end
+
